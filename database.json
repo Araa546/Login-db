@@ -1,4 +1,10 @@
 {
   "users": {},
-  "tokens": []
+  "tokens": [
+    {
+      "token": "ARAA-VIP",
+      "days": 30,
+      "used": false
+    }
+  ]
 }
