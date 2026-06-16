@@ -7,11 +7,5 @@
   "prem": [
     "1207274055"
   ],
-  "tokens": {
-    "ARA-3MJ9-LI7R": {
-      "user": "Christy",
-      "role": "Member",
-      "expire": 1782180339465
-    }
-  }
+  "tokens": {}
 }
