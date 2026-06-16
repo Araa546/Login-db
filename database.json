@@ -5,6 +5,11 @@
       "token": "ARAA-VIP",
       "days": 30,
       "used": false
+    },
+    {
+      "token": "ARA-TEST",
+      "days": 30,
+      "used": false
     }
   ]
 }
