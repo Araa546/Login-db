@@ -1,4 +1,22 @@
 {
-  "users": {},
-  "tokens": []
+  "tokens": [
+    {
+      "token": "ARAA-ADMIN-2026",
+      "used": false,
+      "owner": "Bos",
+      "exp": "20299-12-31"
+    },
+    {
+      "token": "ARAA-DEV-001",
+      "used": false,
+      "owner": "Member1",
+      "exp": "2026-06-30"
+    },
+    {
+      "token": "ARAA-TEST-123",
+      "used": true,
+      "owner": "Sudah Dipake",
+      "exp": "2026-01-01"
+    }
+  ]
 }
