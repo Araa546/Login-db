@@ -7,5 +7,11 @@
   "prem": [
     "1207274055"
   ],
-  "tokens": {}
+  "tokens": {
+    "ARA-903H-ENI4": {
+      "user": "jeff",
+      "role": "Member",
+      "expire": 1782182581197
+    }
+  }
 }
